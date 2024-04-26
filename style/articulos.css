@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/fondo4.jpeg);
+
+}
+
+ /* Estilos adicionales */
+ .gallery-section {
+    margin-bottom: 30px;
+  }
+
+  .gallery-section h2 {
+    margin-bottom: 20px;
+  }
+
+  .gallery-section .row {
+    margin-top: 20px;
+  }
+
+  .gallery-section .card {
+    transition: transform 0.3s ease;
+  }
+
+  .gallery-section .card:hover {
+    transform: scale(1.05);
+  }

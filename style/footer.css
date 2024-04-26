@@ -1,0 +1,18 @@
+
+
+footer {
+    background-color: #333; /* Fondo oscuro */
+    color: #fff; /* Texto blanco */
+    padding: 0; /* Espaciado interno */
+    text-align: center; /* Alineación al centro */
+    position: fixed; /* Footer fijo en la parte inferior */
+    width: 100%;
+    bottom: 0; /* Posición en la parte inferior */
+  }
+  .social-icons img {
+    height: 30px; /* Tamaño de los iconos sociales */
+    margin: 0 10px; /* Espacio entre los iconos */
+  }
+  h3{
+    text-align: center;
+  }
